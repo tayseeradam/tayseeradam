@@ -89,7 +89,7 @@
 </details>
 
 <br/>
-<div color=0000ff>## 🤝 Git In Totch
+<div color=0000ff>## 🤝 Get In Touch
 </div>
 
 
