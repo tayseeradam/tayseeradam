@@ -89,8 +89,9 @@
 </details>
 
 <br/>
-
-## 🤝 Connect with Me
+<div cllassName='bg-blue-600'>## 🤝 Git In Totch
+</div>
+## 🤝 Git In Totch
 
 <p align="center">
 	<a href="mailto:tayseradam25@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
