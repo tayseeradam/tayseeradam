@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Tayseer Adam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=100&color=FF8C00&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=100&color=006400&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = "30"> About me
