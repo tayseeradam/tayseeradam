@@ -11,7 +11,7 @@
 - 🎓 I'm a environmentalist graduate from Um drman Alahalia Unvirstiy.
 - 🎓 I'm a software engineering graduate from Alight Coding School.
 - 💼 I'm looking for new opportunities in software develober industry.
-- 📄 Take a look at my [**portfolio**](https://amadeve.vercel.app/) for more details about me.
+- 📄 Take a look at my [**portfolio**](https://tyseer-vercel.app/) for more details about me.
 - 💬 Ask me anything, I'll be happy to help you ASAP.
 
   <br>
@@ -95,7 +95,7 @@
 
 <p align="center">
 	<a href="mailto:tayseradam25@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/ammar-ahmed/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/tayseer-adam-1808b6361/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/tayseeradam"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
